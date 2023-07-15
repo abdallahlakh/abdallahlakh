@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahlakh&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahlakh" /> </p>
 
-- 🌱 I’m currently learning **web scraping**
+
 
 - 📫 How to reach me **a_lakhdari@estin.dz**
 
